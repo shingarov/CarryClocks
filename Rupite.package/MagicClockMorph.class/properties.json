@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "EllipseMorph",
+	"category" : "Rupite",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fontName",
+		"cColor",
+		"handsColor",
+		"romanNumerals",
+		"antialias"
+	],
+	"name" : "MagicClockMorph",
+	"type" : "normal"
+}
