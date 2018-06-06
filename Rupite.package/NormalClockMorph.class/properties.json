@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"clock"
-	],
+	"instvars" : [ ],
 	"name" : "NormalClockMorph",
 	"type" : "normal"
 }

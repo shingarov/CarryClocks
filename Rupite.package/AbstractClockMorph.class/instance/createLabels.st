@@ -1,12 +1,5 @@
-labels
+drawing
 createLabels
-
-	| numeral font h r |
 	self removeAllMorphs.
-	font := StrikeFont familyName: fontName size: (h := self height min: self width)//8.
-	r := 1.0 - (1.4 * font height / h).
-	1 to: 12 do:
-		[:hour |
-		numeral := hour asString.
-		self addMorphBack: ((StringMorph contents: numeral font: font emphasis: 1)
-			center: (self radius: r hourAngle: hour)) lock].
+	1 to: clock hourBase do:
+		[ :hour | 	self addMorphBack: (self createLabel: hour)]

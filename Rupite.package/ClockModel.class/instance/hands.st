@@ -1,0 +1,3 @@
+geometry
+hands
+	self subclassResponsibility 

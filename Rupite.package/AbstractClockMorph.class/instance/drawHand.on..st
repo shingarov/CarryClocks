@@ -8,6 +8,6 @@ drawHand: hand on: aCanvas
 	
 	aCanvas
 		line: self center
-		to: self center + extent 
+		to: self center + (self arrowExtentR: hand radius degrees: hand degrees) 
 		width: hand thickness  
-		color: handsColor
+		color: self handsColor

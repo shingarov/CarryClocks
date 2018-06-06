@@ -1,0 +1,3 @@
+drawing
+handsColor
+	^Color black 
