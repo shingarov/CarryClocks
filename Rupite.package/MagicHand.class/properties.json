@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ClockHand",
+	"category" : "Rupite",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fraction"
+	],
+	"name" : "MagicHand",
+	"type" : "normal"
+}

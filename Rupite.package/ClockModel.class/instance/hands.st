@@ -1,3 +1,3 @@
-geometry
+mechanism
 hands
 	self subclassResponsibility 

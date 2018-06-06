@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ClockModel",
+	"category" : "Rupite",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hand"
+	],
+	"name" : "MagicClock",
+	"type" : "normal"
+}
