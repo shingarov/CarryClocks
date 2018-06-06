@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "RectangleMorph",
 	"category" : "Rupite",
 	"classinstvars" : [ ],
 	"pools" : [ ],
