@@ -1,0 +1,3 @@
+initialization
+initializeClock
+	self subclassResponsibility 

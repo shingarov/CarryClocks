@@ -1,11 +1,15 @@
 {
 	"commentStamp" : "",
-	"super" : "AbstractClockMorph",
+	"super" : "EllipseMorph",
 	"category" : "Rupite",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "MagicClockMorph",
+	"instvars" : [
+		"fontName",
+		"cColor",
+		"handsColor"
+	],
+	"name" : "AbstractClockMorph",
 	"type" : "normal"
 }

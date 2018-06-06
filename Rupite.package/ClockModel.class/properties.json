@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "AbstractClockMorph",
+	"super" : "Object",
 	"category" : "Rupite",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "MagicClockMorph",
+	"name" : "ClockModel",
 	"type" : "normal"
 }
