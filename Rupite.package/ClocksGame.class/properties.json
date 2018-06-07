@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "RectangleMorph",
+	"super" : "BorderedMorph",
 	"category" : "Rupite",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"clocks"
+	],
 	"name" : "ClocksGame",
 	"type" : "normal"
 }
