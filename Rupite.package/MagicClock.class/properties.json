@@ -6,7 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"hand"
+		"hand",
+		"carry",
+		"i"
 	],
 	"name" : "MagicClock",
 	"type" : "normal"

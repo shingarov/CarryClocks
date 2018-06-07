@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"carry"
+	],
 	"name" : "MagicClockMorph",
 	"type" : "normal"
 }

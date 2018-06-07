@@ -1,3 +1,3 @@
 API
 degrees
-	^20
+	^fraction * 360
