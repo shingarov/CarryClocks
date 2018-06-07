@@ -1,0 +1,3 @@
+parameters
+numClocks
+	^3
