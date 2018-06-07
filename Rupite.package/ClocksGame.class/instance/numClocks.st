@@ -1,3 +1,3 @@
 parameters
 numClocks
-	^3
+	^4

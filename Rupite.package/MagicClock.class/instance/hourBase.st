@@ -1,3 +1,3 @@
 mechanism
 hourBase
-	^3
+	^2

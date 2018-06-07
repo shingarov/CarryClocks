@@ -1,3 +1,3 @@
 geometry
 defaultExtent
-	^600@210
+	^(200*self numClocks)@210
