@@ -1,6 +1,8 @@
 drawing
 labelFont
 	font isNil ifTrue: [
-		font := StrikeFont familyName: self fontName size: (self height min: self width)//8
+		font := LogicalFont
+			familyName: self fontName
+			pointSize: (self height min: self width)//16
 	].
 	^font

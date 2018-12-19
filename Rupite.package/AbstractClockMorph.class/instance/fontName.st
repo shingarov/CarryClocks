@@ -1,3 +1,3 @@
 initialization
 fontName
-	^'NewYork'
+	^'Bitmap DejaVu Sans'
